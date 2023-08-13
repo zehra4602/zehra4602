@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zehra4602
+- 👋 Hi, I’m @zehra
 - 👀 I’m interested in pictures 
 - 🌱 I’m currently learning software
 - 💞️ I’m looking to collaborate on html
